@@ -1,0 +1,20 @@
+{
+  "name": "@darrell.bleakley/standalone-app",
+  "version": "0.0.1",
+  "description": "A Standalone TWR Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testing My Standalone TWR Application\"",
+    "build": "echo \"Building My Standalone TWR Application\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbleakley/standalone-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbleakley/standalone-app/issues"
+  },
+  "homepage": "https://github.com/dbleakley/standalone-app#readme"
+}
